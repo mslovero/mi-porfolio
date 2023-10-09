@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Argentina"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-75, -55],
+            [-75, -20],
+            [-55, -20],
+            [-55, -55],
+            [-75, -55]
+          ]
+        ]
+      }
+    }
+  ]
+}
